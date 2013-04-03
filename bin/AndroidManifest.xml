@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name=".TaikoSample001"
-            android:label="@string/title_activity_taiko_sample001" >
+            android:label="@string/title_activity_taiko_sample001" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
