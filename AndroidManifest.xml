@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gclue.TaikoSample001"
+    package="com.example.taikosample001"
     android:versionCode="1"
     android:versionName="1.0" >
 
